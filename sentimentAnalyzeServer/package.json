@@ -7,7 +7,7 @@
     "start": "node sentimentAnalyzerServer.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "jonellwood-666-idk-wtf",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
